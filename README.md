@@ -1,2 +1,3 @@
 # CurrencyRate
 Currency Rate in banks of Sochi
+Shows which bank gives better rate for saling or buying Euros or USD... 
